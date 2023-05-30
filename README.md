@@ -1,5 +1,6 @@
 # transness101
-Ressources to help you educate yourself about transness. The list is not ordered.
+Someone you know is trans and you want to understand them better? You think you might be trans? You're just someone who doesn't really understand what it *means* to be trans? Here are some resources to help you educate yourself about transness.  
+This list is not ordered in any way.
 
 | link | subjects | critics |
 | -- | -- | -- |
