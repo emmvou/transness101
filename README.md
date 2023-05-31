@@ -11,7 +11,20 @@ This list is not ordered in any way.
 | [Transphobia: An Analysis \| Philosophy Tube](https://www.youtube.com/watch?v=yCxqdhZkxCo) | <ul><li>basic trans education</li> <li>some exploration about the concept of gender</li> <li>a philosophical analysis of where transphobia usually comes from and how it persists</li></ul> | <ul><li>the speaker didn't know she was trans then so there was a lot she didn't know (but you can find that extra knowledge in her more recent videos) | very very accessible |
 | [What Does "Nonbinary" MEAN? // What IS "Nonbinary" Gender?](https://www.youtube.com/watch?v=ZGQIrYlvrrs) | <ul><li>non binary education</li> <li>non binary and trans experience</li></ul> | <ul><li>mentions a theory stating that being trans might be caused by brain development in utero (highly debatable)</li></ul> | very accessible |
 | [The Hell of Transgender Puberty](https://www.youtube.com/watch?v=O7lWZxG8Fiw) | <ul><li>trans experience</li> <li>relationship to your body when you're trans (before and after HRT)</li></ul> | - | very accessible |
-
+| [I Emailed My Doctor 133 Times: The Crisis In the British Healthcare System](https://www.youtube.com/watch?v=v1eWIshUzr8) | <ul><li>the hoops you need to jump through (in the UK) to access health care when you're trans</li> <li>why trans people shouldn't have to go through a different way for their health care</li></ul> | <ul><li>only applies to the UK but is a good example of how trans people being treated differently is harmful</li></ul> | TBA |
+### subjects not covered yet  
+- social transition  
+- coming out  
+- eggs  
+- gender vs sex  
+- everyone's transition is different (vaguely mentionned in many links)  
+- trans rights (in depth)  
+- the trans community is not a monolith  
+- debunking
+  - weaponized transphobia
+  - TERFs (and misogyny)
+  - transmedicalists
+- glossary
 ## Fiction  
 Because it's usually more fun to learn through relatable characters.  
 | film | how it's trans | critics |
