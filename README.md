@@ -16,7 +16,7 @@ Because it's usually more fun to learn through relatable characters.
 | -- | -- | -- |
 | Boys Don't Cry (1999) | biopic about Brandon Teena, a trans man | <ul><li>extremely sad</li></ul> |
 | Tomboy (2011) | about a young tomboy or trans boy | <ul><li>never really explicitly states that the main character is trans, rather a tomboy, but expresses really well how gender presentation can be fluid</li> <li>the ending implies the main character was not really trans but just exploring their gender</li> <li>sad</li></ul> |
-| The Danish Girl (2015) | about the first trans woman to get gender reaffirming surgery | <ul><li>only shows what it means to be trans through the eyes of relatives, not the trans character herself so it completely misses on the emotional stakes for her</li> <li>fails to make me gender the main character correctly</li> <li>just don't watch it</li> <li>very sad</li></ul> |
+| The Danish Girl (2015) | biopic about the first trans woman to get gender reaffirming surgery | <ul><li>only shows what it means to be trans through the eyes of relatives, not the trans character herself so it completely misses on the emotional stakes for her</li> <li>fails to make me gender the main character correctly</li> <li>just don't watch it</li> <li>very sad</li></ul> |
 | Bros (2022) | more about the LGBTQ+ community in general than trans people specifically (actually includes a lot of queer people IRL) | <ul><li>not suitable for all audiences (prude people)</li></ul> |
 
 | show | how it's trans | critics |
